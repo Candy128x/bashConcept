@@ -1,3 +1,5 @@
+# Build some file's for Developer </>
+
 cat > .gitignore << ENDOFFILE
 #--GITIGNORE--
 .gitignore

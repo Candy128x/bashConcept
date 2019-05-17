@@ -32,6 +32,7 @@ cat > CHANGELOG.md << ENDOFFILE
 ### Added
 	- Add new feature.
 ENDOFFILE
+# Author: Ashish Sondagar (Software Engineer)
 
 
 cat > Notes3.md << ENDOFFILE

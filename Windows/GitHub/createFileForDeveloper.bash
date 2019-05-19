@@ -62,7 +62,7 @@ ENDOFFILE
 cat > NoteMySQLquery.md << ENDOFFILE
 DESCRIBE table_name;
 SHOW CREATE TABLE table_name;
-SHOW TABLE LIKE '%key_word%';
+SHOW TABLES LIKE '%key_word%';
 SHOW INDEX FROM table_name;
 SELECT * FROM table_name;
 

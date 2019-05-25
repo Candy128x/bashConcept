@@ -59,7 +59,7 @@ cat > NoteCommands.md << ENDOFFILE
 ENDOFFILE
 
 
-cat > NoteMySQLquery.md << ENDOFFILE
+cat > NoteMySQLquery.sql << ENDOFFILE
 DESCRIBE table_name;
 SHOW CREATE TABLE table_name;
 SHOW TABLES LIKE '%key_word%';
